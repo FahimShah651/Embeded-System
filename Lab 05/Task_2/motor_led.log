@@ -1,0 +1,12 @@
+# Writing all output to: E:\Semester 4\Embeded System\Lab\Lab 05\Task_2\motor_led.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+

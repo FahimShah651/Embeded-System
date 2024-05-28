@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\Debug\Open_Ended_Lab_LED_Buzzer.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Open_Ended_Lab_LED_Buzzer.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Open_Ended_Lab_LED_Buzzer.map</FILE>
+  <FILE>Open_Ended_Lab_LED_Buzzer.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>15</LINE></START>
+  <CASE_1><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>30</LINE></CASE_1>
+  <CASE_2><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>37</LINE></CASE_2>
+  <CASE_3><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>44</LINE></CASE_3>
+  <CASE_4><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>50</LINE></CASE_4>
+  <DELAY><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>56</LINE></DELAY>
+  <LOOP1><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>58</LINE></LOOP1>
+  <LOOP2><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>60</LINE></LOOP2>
+  <LOOP3><FILE>E:\Semester 4\Embeded System\Lab\Lab 07\Open_Ended_Lab_LED_Buzzer\Open_Ended_Lab_LED_Buzzer\main.asm</FILE><LINE>62</LINE></LOOP3>
+ </LABELS>
+</ASSEMBLER_INFO>
